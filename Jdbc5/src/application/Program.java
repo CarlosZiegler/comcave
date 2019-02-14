@@ -17,14 +17,14 @@ public class Program {
 		PreparedStatement st = null;
 		
 		try {
-			conn= DB.getConnection();
+			conn= DB.getConnection();// sql para deletar o registro do DB
 			st = conn.prepareStatement("DELETE FROM department "
 					+ "WHERE "
 					+ "Id = ?"
 					);
 					
 			st.setInt(1, 2); // vai dar exception pois estou deletando um departamento que tem funcionarios 
-			
+							// se colocar um departamento que noa tem funcionarios ele deleta normal	
 			
 			
 			int rowsAffected =  st.executeUpdate();
