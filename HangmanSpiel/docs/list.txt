@@ -1,0 +1,6 @@
+1,mutter:familie
+2,milch:trinken
+3,apfelsaft:trinken
+4,berlin:Deutsch stadt
+5,brasilien:land
+6,neymar:fußbalspieler

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ value\ healthBonus
+comment0.target=Helmet(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+numComments=1

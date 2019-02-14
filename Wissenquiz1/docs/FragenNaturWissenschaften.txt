@@ -1,0 +1,5 @@
+Wie heißt die Hauptstadt von Albanien?;Astana;Tirana;Baku;Tel Aviv;Tirana;
+Was ist wesentlicher Bestandteil des Magensaftes?;Sauerstoff;Salzsäure;Schwefelsäure;Wasserstoff;Salzsäure;
+Welcher Planet ist der Erde am nächsten?;Pluto;Mars;Venus;Merkur;Venus;
+Wie lautet das Einheitenzeichen für die Maßeinheit: barrel?;bb;bl;be;br;bl;
+Welches Vitamin wird vom Körper durch Sonnenlicht selbst gebildet?;Vitamin A;Vitamin B;Vitamin D;Vitamin C;Vitamin D;

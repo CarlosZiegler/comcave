@@ -1,0 +1,5 @@
+In welchem Bundesstaat Australiens liegt die Stadt Sydney?;Queensland;Victoria;Tasmania;New South Wales;New South Wales;
+Wie heißt die Hauptstadt von Bangladesch?;Rabat;Dhaka;Palikir;Kairo;Dhaka;
+In welchem Land leben die Magyaren hauptsächlich?;Polen;Mikronesien;Ungarn;Mynanmar;Ungarn;
+Zu welchem Land gehört diese Flagge?;Marokko;Bangladesch;Pakistan;Afghanistan;Pakistan;
+In welchem Gebirge entspringt der Fluss Lena?;Burejagebirge;Kaukasus;Altai;Baikalgebirge;Baikalgebirge;

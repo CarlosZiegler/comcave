@@ -1,0 +1,10 @@
+package application
+
+import javafx.scene.layout.BorderPane
+import application.SportController
+
+component Sport controlledby SportController {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}

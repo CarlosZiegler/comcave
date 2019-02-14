@@ -1,0 +1,2 @@
+1;Was ist ein Stream?;Fluﬂ;Windstoﬂ;Datenabfolge;Dampf;C
+2;Was ist die Hauptstadt von Israel?;Jordanien;Joga;Jerusalem;Jutta;C

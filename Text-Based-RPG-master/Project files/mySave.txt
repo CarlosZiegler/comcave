@@ -1,0 +1,43 @@
+
+This file was chosen for saving: C:\Users\Aleksander\Desktop\mySave
+
+
+This file was chosen for saving: C:\Users\Aleksander\Desktop\mySave
+
+
+                                             /   \                                  
+            _                        )      ((   ))     (                           
+           (@)                      /|\      ))_((     /|\                          
+|-|                     / | \    (/\|/\)   / | \                      (@)
+| | -------------------/--|-voV---\`|'/--Vov-|--\---------------------|-|
+|-|                         '^`   (o o)  '^`                          | |
+| |                               `\Y/'                               |-|
+|-|                                                                   | |
+| |                           WORLD OF ZUUL                           |-|
+|-|                                                                   | |
+| |                                                                   |-|
+|_|___________________________________________________________________| |
+(@)              l   /\ /         ( (       \ /\   l                `\|-|
+                 l /   V           \ \       V   \ l                  (@)
+                 l/                _) )_          \I                     
+                                   `\ /'                                 
+                                           `                                
+
+
+Welcome to the World of Zuul!
+Made by Aleksander Jacobsen
+
+World of zuul is a text-based roleplaying game set in the world of Zuul. 
+You are an adventurer seeking gold an fame, you have heard the world of zuul holds deep caves filled with treasure and magical mysteries.
+
+
+North gate
+
+You are at the north gate to the keep.
+
+Exits: south,  east,  west, 
+Items: sword,  keep map, 
+People: guard, 
+
+This file was chosen for saving: C:\Users\Aleksander\Desktop\mySave
+

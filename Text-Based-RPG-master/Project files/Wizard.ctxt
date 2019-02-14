@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=name\ description\ minDmg\ maxDmg\ blockPrs\ maxHealth
+comment0.target=Wizard(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ fillAttacks()
+numComments=2

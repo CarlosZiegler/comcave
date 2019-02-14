@@ -1,0 +1,6 @@
+package builder;
+
+public enum ETyp 
+{
+	KOMBI, CABRIO, KOMPAKT, SUV, TRANSPORTER, SPORTWAGEN, GELAENDEWAGEN
+}

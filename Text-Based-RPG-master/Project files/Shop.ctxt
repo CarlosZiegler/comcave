@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=name\ description\ gold
+comment0.target=Shop(java.lang.String,\ java.lang.String,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ printShop()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=item
+comment4.target=void\ sellItem(CarryableItem)
+comment5.params=command
+comment5.target=CarryableItem\ buyItem(Command)
+comment6.params=
+comment6.target=void\ returnInventory()
+comment7.params=item
+comment7.target=void\ addToShop(CarryableItem)
+comment8.params=item
+comment8.target=void\ removeFromShop(CarryableItem)
+comment9.params=name
+comment9.target=java.lang.String\ checkInventory(java.lang.String)
+numComments=10

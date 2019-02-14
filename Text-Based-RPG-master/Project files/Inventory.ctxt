@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inventory()
+comment1.params=
+comment1.target=java.lang.String\ printInventory()
+comment2.params=
+comment2.target=java.lang.String\ getInventory()
+comment3.params=name
+comment3.target=java.lang.String\ getItems(java.lang.String)
+comment4.params=item
+comment4.target=void\ addItem(CarryableItem)
+comment5.params=item
+comment5.target=void\ removeItem(CarryableItem)
+comment6.params=name
+comment6.target=CarryableItem\ getItem(java.lang.String)
+comment7.params=name
+comment7.target=CarryableItem\ returnItems(java.lang.String)
+comment8.params=
+comment8.target=boolean\ getKey()
+comment9.params=
+comment9.target=int\ getWeight()
+numComments=10

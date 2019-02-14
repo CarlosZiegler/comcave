@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ value\ blockPrs\ healthBonus
+comment0.target=Shield(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getBlockPercent()
+comment2.params=
+comment2.target=java.lang.String\ print()
+numComments=3
