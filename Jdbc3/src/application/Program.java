@@ -19,7 +19,7 @@ public class Program {
 		
 		try {
 			conn = DB.getConnection();
-			/*st = conn.prepareStatement( // aqui vai o SQL
+			st = conn.prepareStatement( // aqui vai o SQL
 					"INSERT INTO SELLER " + "(Name, Email, BirthDate, BaseSalary, DepartmentId)" + "VALUES"
 							+ "(?,?,?,?,?)",// aqui nao precisa declara a string, pode-se usar os ? para indicar que
 								Statement.RETURN_GENERATED_KEYS			// aqui vai ser inserido os valores mais tarde
@@ -30,12 +30,13 @@ public class Program {
 			st.setDate(3, new java.sql.Date(sdf.parse("30/11/1988").getTime())); // aqui ele recebe o valor do tipo data
 			st.setDouble(4, 5000.00);
 			st.setInt(5, 2);
-			 */
+			 
 			
-			st= conn.prepareStatement(
+			/*Teste para inserir mais de um registro
+			 * st= conn.prepareStatement( 
 					"insert into department (Name) values ('D1'),('D2')",
 					Statement.RETURN_GENERATED_KEYS);
-			
+			*/ 
 			
 
 			int rowsAffected = st.executeUpdate();
@@ -52,9 +53,9 @@ public class Program {
 
 		} catch (SQLException e) {
 			e.getMessage();
-		} /*catch (ParseException e) {
+		}catch (ParseException e) {
 			e.getMessage();
-		}*/
+		}
 
 		finally {
 			DB.closeStatement(st);
