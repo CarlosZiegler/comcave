@@ -15,20 +15,20 @@ public class Program {
 		ResultSet rs = null;
 
 		try {
-			conn = DB.getConnection();
-			st = conn.createStatement();
-			rs = st.executeQuery("select * from department");
-			while (rs.next()) {
-				System.out.println(rs.getInt("Id") + ", " + rs.getString("Name"));
+			conn = DB.getConnection(); // cria ou recebe a conexao com DB
+			st = conn.createStatement(); // prepara a conexao para receber uma query SQL
+			rs = st.executeQuery("select * from department"); // recebe o resultado da query executada
+			while (rs.next()) { // le cada elemento, se houver do resultado da query
+				System.out.println(rs.getInt("Id") + ", " + rs.getString("Name")); // imprime na tela o resultado da query
 			}
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
 
 		finally {
-			DB.closeResultset(rs);
-			DB.closeStatement(st);
-			DB.closeConnection();
+			DB.closeResultset(rs); // fecha o resultset
+			DB.closeStatement(st); // fecha o statement	
+			DB.closeConnection(); // fecha a conexao;
 		}
 		
 		
