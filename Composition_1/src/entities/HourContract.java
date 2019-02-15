@@ -23,7 +23,7 @@ public class HourContract {
 	}
 
 	public HourContract() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Date getDate() {

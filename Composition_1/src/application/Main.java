@@ -45,14 +45,10 @@ public class Main {
 		System.out.println("Enter month and Year to calculate income (MM/YYYY): " );
 		String datefinden = input.next();
 		String[] date = datefinden.split("/");
-		try {
-			System.out.println("Name : "+ worker.getName());
-			System.out.println("Departament : "+ worker.getDepartament().getName());
-			System.out.println("Income for "+datefinden+": "+worker.income(Integer.parseInt(date[1]), Integer.parseInt(date[0])));
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		System.out.println("Name : "+ worker.getName());
+		System.out.println("Departament : "+ worker.getDepartament().getName());
+		System.out.println("Income for "+datefinden+": "+worker.income(Integer.parseInt(date[1]), Integer.parseInt(date[0])));
+		
 	}
 
 }
